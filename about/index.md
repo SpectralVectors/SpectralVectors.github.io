@@ -7,5 +7,3 @@ comments: false
 ---
     
 <center><a href="http://spectralvectors.github.io/"><b>Spectral Vectors</b></a> develops tools and games with Blender and Unreal</center>
-
-Open Source tools for Blender and Unreal, written in Python
