@@ -3,7 +3,7 @@ layout: post
 title: "Welcome"
 date: 2012-05-22
 excerpt: "Welcome to the new site."
-project: false
+project: true
 tag: 
 - introductions 
 - welcome
