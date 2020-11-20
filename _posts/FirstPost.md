@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Welcome"
 date: 2012-05-22
 excerpt: "Welcome to the new site."
