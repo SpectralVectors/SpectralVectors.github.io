@@ -70,7 +70,7 @@ h3.title a {
 blockquote {
 	font-family:$alt-font;
 	font-style:italic;
-	border-left:8px solid $color_tundora;
+	border-left:8px solid $white;
 	padding-left:20px;
 	margin: 0;
 }
@@ -90,9 +90,9 @@ figcaption {
 // links
 a {
   transition: color .4s;
-  color: $color_shark;
+  color: $white;
   &:link {
-  	color: $color_shark;
+  	color: $white;
   }
   &:visited {
   	color: $color_tuatara;
