@@ -48,12 +48,12 @@ h3.title a {
 		padding: 10px 18px;
 		margin: 0 10px;
 		text-decoration: none;
-		background: $white;
-		color: $color_shark;
+		background: $black;
+		color: $white;
 		a {
 			@include font-rem(20);
 			text-decoration: none;
-			color: $color_shark;
+			color: $white;
 			font-weight: bolder;
             &:hover {
                 color: $red;
@@ -84,7 +84,7 @@ blockquote {
 figcaption {
     padding-top: 10px;
     @include font(14);
-    color: $color_stack;
+    color: $white;
 }
 
 // links
