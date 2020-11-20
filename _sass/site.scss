@@ -76,7 +76,7 @@ body {
 	padding-left: 15px;
 	@include center-block();
 	background-color: $black;
-	color: $color_shark;
+	color: $white;
 	z-index: 1;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
@@ -105,7 +105,7 @@ body {
 	max-width: 850px;
 	margin: 4rem auto;
 	background: $black;
-	color: $color_tuatara;
+	color: $white;
 	padding: 2em;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
@@ -121,7 +121,7 @@ body {
 	max-width: 850px;
 	margin: -3rem auto 4rem;
 	background: $black;
-	color: $color_tuatara;
+	color: $white;
 	padding: 2em;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
@@ -136,10 +136,10 @@ body {
 .entry-meta {
 	@include font-rem(12);
 	text-transform: uppercase;
-	color: lighten($color_tuatara,60);
+	color: lighten($white,60);
 	padding-left: 0;
 	a {
-		color: lighten($color_tuatara,60);
+		color: lighten($white,60);
 	}
 	li {
 	    list-style-type: none;
@@ -152,7 +152,7 @@ body {
         @include rounded(3px);
         text-decoration: none;
         background-color: $black;
-        color: $color_tuatara;
+        color: $white;
         @include transition(.75s);
         margin: 2px 5px;
 		span {
