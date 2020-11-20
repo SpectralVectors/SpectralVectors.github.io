@@ -1,6 +1,6 @@
 ---
 layout: project
 title: All Projects
-excerpt: "A List of Projects"
+excerpt: "UnrealObjects, UnrealRightClick, Transmat"
 comments: false
 ---
