@@ -1,4 +1,3 @@
-/*
 .dl-menuwrapper {
 	width: 100%;
 	position: absolute;
@@ -162,19 +161,18 @@
 			margin-bottom: 0;
 		}
 	}
-
-	 Hide the inner submenus
+	/* Hide the inner submenus */
 	li .dl-submenu {
 		display: none;
 	}
 }
- 
+/* 
 When a submenu is openend, we will hide all li siblings.
 For that we give a class to the parent menu called "dl-subview".
 We also hide the submenu link. 
 The opened submenu will get the class "dl-subviewopen".
 All this is done for any sub-level being entered.
-
+*/
 .dl-menu.dl-subview li,
 .dl-menu.dl-subview li.dl-subviewopen > a,
 .dl-menu.dl-subview li.dl-subview > a {
@@ -187,7 +185,7 @@ All this is done for any sub-level being entered.
 .dl-menu.dl-subview li.dl-subviewopen > .dl-submenu > li {
 	display: block;
 }
- Animation classes for moving out and in 
+/* Animation classes for moving out and in */
 .dl-menu.dl-animate-out {
 	-webkit-animation: MenuAnimOut 0.4s ease;
 	-moz-animation: MenuAnimOut 0.4s ease;
@@ -316,11 +314,11 @@ All this is done for any sub-level being entered.
 		opacity: 0;
 	}
 }
- No Touch Fallback 
+/* No Touch Fallback */
 .no-touchevents .dl-menuwrapper li a:hover {
 	background: rgba(255,248,213,0.1);
 }
- No JS Fallback 
+/* No JS Fallback */
 .no-js {
 	.dl-trigger {
 		display: none;
@@ -371,4 +369,3 @@ All this is done for any sub-level being entered.
 .dl-menuopen li {
 	display: block
 }
-*/
