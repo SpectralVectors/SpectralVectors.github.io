@@ -53,7 +53,7 @@ h3.title a {
 		a {
 			@include font-rem(20);
 			text-decoration: none;
-			color: $white;
+			color: $color_pink_swan;
 			font-weight: bolder;
             &:hover {
                 color: $red;
