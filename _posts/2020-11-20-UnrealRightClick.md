@@ -2,7 +2,7 @@
 layout: post
 title:  "Unreal Right Click"
 date:   2020-11-20
-excerpt: "UE-style Right Mouse Navigation in Blender"
+excerpt: "Unreal-style Right Mouse Navigation in Blender"
 project: true
 tag:
 - blender 
