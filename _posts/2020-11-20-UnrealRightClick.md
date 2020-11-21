@@ -15,7 +15,7 @@ comments: true
     
 # UnrealRightClick
 
-https://github.com/SpectralVectors/UnrealRightClick
+[Link](https://github.com/SpectralVectors/UnrealRightClick)
 
 Enables Unreal Engine-style Right Mouse Viewport Navigation:
 
