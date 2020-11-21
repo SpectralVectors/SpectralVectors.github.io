@@ -13,9 +13,9 @@ tag:
 comments: true
 ---
     
-# UnrealObjects
+# Unreal Objects
 
-[Repo and Download](https://github.com/SpectralVectors/UnrealObjects)
+[Link](https://github.com/SpectralVectors/UnrealObjects)
 
 Blender Add-on - Adds meshes, lights and probes scaled to Unreal dimensions
 
