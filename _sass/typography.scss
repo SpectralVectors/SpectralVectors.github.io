@@ -49,11 +49,11 @@ h3.title a {
 		margin: 0 10px;
 		text-decoration: none;
 		background: $black;
-		color: $color_pink_swan;
+		color: $white;
 		a {
 			@include font-rem(20);
 			text-decoration: none;
-			color: $color_pink_swan;
+			color: $white;
 			font-weight: bolder;
             &:hover {
                 color: $red;
@@ -92,7 +92,7 @@ a {
   transition: color .4s;
   color: $color_pink_swan;
   &:link {
-  	color: $white;
+  	color: $color_pink_swan;
   }
   &:visited {
   	color: $white;
