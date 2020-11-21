@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
     
-# UnrealRightClick
+# Unreal Right Click
 
 [Link](https://github.com/SpectralVectors/UnrealRightClick)
 
