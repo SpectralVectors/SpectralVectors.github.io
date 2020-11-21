@@ -13,7 +13,13 @@ tag:
 comments: true
 ---
     
-<center><b>Unreal Right Click</b> is an addon for Blender 2.8+ that allows Unreal style Right Mouse Navigation in the Viewport.</center>
-     
-Please enjoy!
+# UnrealRightClick
+Enables Unreal Engine-style Right Mouse Viewport Navigation:
+
+Right Mouse Hold + WASD to Navigate 3D Viewport
+
+Right Mouse Click to open Context Menus
+
+Mouse Wheel to adjust Viewport Move Speed (while Right Mouse is held)
+
 
