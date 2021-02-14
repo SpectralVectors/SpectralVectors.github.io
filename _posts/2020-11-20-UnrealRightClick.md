@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unreal Right Click"
+title:  "Right Mouse Navigation"
 date:   2020-11-20
 excerpt: "Unreal-style Right Mouse Navigation in Blender"
 project: true
@@ -13,9 +13,9 @@ tag:
 comments: true
 ---
     
-# Unreal Right Click
+# Right Mouse Navigation
 
-[Link](https://github.com/SpectralVectors/UnrealRightClick)
+[Link](https://github.com/SpectralVectors/RightMouseNavigation)
 
 Enables Unreal Engine-style Right Mouse Viewport Navigation:
 
