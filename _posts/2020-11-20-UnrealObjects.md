@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unreal Objects"
+title:  "Custom Objects"
 date:   2020-11-20
 excerpt: "Meshes and lights scaled to Unreal dimensions"
 project: true
@@ -15,7 +15,7 @@ comments: true
     
 # Unreal Objects
 
-[Link](https://github.com/SpectralVectors/UnrealObjects)
+[Link](https://github.com/SpectralVectors/CustomObjects)
 
 Blender Add-on - Adds meshes, lights and probes scaled to Unreal dimensions
 
